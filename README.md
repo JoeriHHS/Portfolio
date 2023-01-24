@@ -50,11 +50,12 @@ In het paper hebben wij onze conclusie geschreven voor het container probleem. I
 In de beginweken van deze minor hebben wij van meneer Andrioli les gekregen over de scrum methode. Met behulp van lego is ons toen uitgelegd over hoe we op een juiste manier de scrum methode konden toepassen. Door middel van sprints van 2 weken konden we onszelf elke keer een nieuw doel stellen. Voor deze minor had ik nog nooit gehoord over de scrum methode. We hebben met het groepje geprobeerd het te gebruiken. Met de nadruk op geprobeerd, want het ging ons niet goed af. We vergaten constant het trello bord te grbuiken en up to date te houden. Dus die methode hebben we na een tijdje losgelaten. Wij hielden nog wel vast aan de sprints van 2 weken, maar tussendoor kwamen we dagelijks bij elkaar om samen aan het project te werken. Ik heb zelf het idee dat ik continu wel duidelijk had wat er allemaal gedaan moest worden en wat ik zelf kon doen om daar aan mee te werken. Het idee van onze planning draaide eigenlijk om het toewerken naar de interne of externe presentaties. Daarmee bedoel ik dat we onszelf een doel stelde om af te krijgen binnen die 2 weken en dat we daar samen naar toe zouden werken. Achteraf gezien is heb ik het idee dat ik ontzettend veel heb geleerd hiervan. Plannen is nooit mijn sterktse punt geweest, dat heb ik bij eerder projecten ook al aangegeven als verbeter punten. En nu zou ik dat weer doen. Ik heb elke keer wel in de gaten wat er gebeurt en wat er moet gebeuren maar er had gedurende deze minor wel beter gepland kunnen worden. Zo was de samenwerking tussen een aantal uit ons groepjes soms ver te zoeken en dat vind ik zonde, dan vraag ik me af hoeveel ik had kunnen leren als die samenwerking beter was geweest.
 
 ## Predictive Analytics
+Bij dit onderdeel zal ik een aantal verschillende notebooks voorbij laten komen met daarin voorbeelden van hoe ik de dingen die ik heb geleerd heb toegepast. Als eerst zal ik een voorbeeld laten zien van een simpele calssifier, daarna zal ik een voorbeeld laten zien van een wat complexer model voor het foodboost project en als laatst zal ik een model laten zien dat we hebben gebruikt voor het project van de containers. 
+
+### Voorbeeld 1
+Het gaat om [deze](https://github.com/JoeriHHS/Portfolio/blob/main/Simpele%20Classififer.ipynb) notebook. In deze notebook kan ik laten zien dat ik een simpele calssifier kan bouwen. Ik zal van begin tot eind even kort toelichten wat er gedaan wordt. Als eerst moeten alle datasets worden ingeladen, dan maak ik uit die datasets 2 lijsten. Een lijst met recepten en een lijst met ingredienten. Vervolgens wordt er een dataframe gemaakt met de recepten op de rijen en de ingredienten in de kolommen, met een 1 als dat ingredient in het recept zit en een 0 als het ingredient niet in het recept zit. 
 
 
 
 
-
-
-Ik kan [hier](https://github.com/JoeriHHS/Portfolio/blob/main/Simpele%20Classififer.ipynb) laten zien dat ik kan programmeren
 

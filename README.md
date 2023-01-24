@@ -71,9 +71,10 @@ Ik vind het lastig om aan de hand van geschreven tekst te laten zien dat ik gedu
 
 In mijn notebooks, dit portfolio, het paper en de gesprekken die we met elkaar hebben gevoerd kan ik hopelijk ook aantonen dat ik over voldoende kennis beschik om de juiste begrippen te gebruiken. Met het tentamen is ook getoetst of ik als student voldoende kennis heb over de onderdelen van de Machine Learning. Het tentamen heb ik met een mooi cijfer gehaald dus ook daarmee kan ik aantonen dat het met de domein kennis goed zit. Voor het tentamen heb ik alle begrippen die bij de powerpoints erbij stonden opgeschreven en voor mijzelf omschreven. Daardoor heb ik ook op die manier begripkennis uitgebreid.  
 
-Ik zal nog een aantal gevonden artikelen hier delen waarvan ik denk dat die van toepassing waren op de projecten waaraan ik heb meegewerkt.
-
-
+Ik zal nog een aantal gevonden artikelen hier delen waarvan ik denk dat die van toepassing waren op de projecten waaraan ik heb meegewerkt.  
+- [Artikel 1](https://www.tandfonline.com/doi/abs/10.3846/16484142.2011.638022)  
+- Zeng, Q., Yang, Z., & Hu, X. (2011). A method integrating simulation and reinforcement learning for operation scheduling in container terminals. Transport, 26(4), 383-393. (APA geprobeerd)  
+- 
 
 
 

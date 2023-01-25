@@ -84,6 +84,13 @@ Ik zal nog een aantal gevonden artikelen hier delen waarvan ik denk dat die van 
 
 
 ## Data preprocessing
+Bij dit onderdeel zal ik een drietal notebooks laten zien waarin ik kan laten zien dat ik gewoon ben gaan puzzelen met de data. In [deze]() notebook ben ik bijvoorbeeld gewoon aan de slag gegaan met de beschikbare data. Het doel was om een lijst te maken met daarin alle unieke tags. Maar ik heb veel meer geprobeerd. Door bijvoorbeeld een aantal functies aan te maken waarbij je direct de lijst met unieke tags krijgt van een groep gerechten. Omdat we in het begin van het foodboost project heel erg bezig waren de tags die bij recepten horen komt dat ook veel terug. 
+
+In [dit](https://github.com/JoeriHHS/Portfolio/blob/main/FoodBoostJoeri%20(1).ipynb) notebook (eerder ook al naar verwezen) kan ik laten zien dat ik de data kan voorbereiden om vervolgens aan een model mee te geven en kan ik ook laten zien dat ik de data kan opschonen door bijvoorbeeld NaN waardes eruit te halen. 
+
+In [deze]() afbeelding is de validatie curve van een KNN Classifier te zien die ik uit [deze]() notebook heb gehaald. De code die ik heb gebruikt om de afbeelding uiteindelijk te maken is code van [deze](https://www.geeksforgeeks.org/validation-curve/) website. Uit de validation curve die ik heb gemaakt is lastig iets uit op te maken. Ik kan wel zien dat dit model heel goed voorspelt omdat de accuracy score erg hoog is. Uit een afbeelding met een validation curve kan je het beste het aantal buren kiezen als de training en test score op het hoogst is en daarna beide lijnen alleen maar dalen.
+
+Ik kan laten zien dat ik de data heb bestudeerd, ik kan laten zien dat ik de data kan cleanen, ik kan laten zien dat ik de data netjes kan voorbereiden om er vervolgens een model mee te kunnen bouwen, ik kan de data op een juiste manier beschrijven en ik kan ook bepaalde visualisaties maken die het gemaakte model dan extra kracht meegeeft. 
 
 
 ## Communication

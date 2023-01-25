@@ -74,7 +74,30 @@ In mijn notebooks, dit portfolio, het paper en de gesprekken die we met elkaar h
 Ik zal nog een aantal gevonden artikelen hier delen waarvan ik denk dat die van toepassing waren op de projecten waaraan ik heb meegewerkt.  
 - [Artikel 1](https://www.tandfonline.com/doi/abs/10.3846/16484142.2011.638022)  
 - Zeng, Q., Yang, Z., & Hu, X. (2011). A method integrating simulation and reinforcement learning for operation scheduling in container terminals. Transport, 26(4), 383-393. (APA geprobeerd)  
-- 
+- In dit artikel behandelen de auteurs een Q-learning algoritme (reinforcement learning model) om op basis van simulaties de processen in een container terminal te optimaliseren. Dit artikel komt veel overeen met wat wij wilden onderzoeken, waar het in verschilt is het model dat gebruikt wordt. Wij hebben niet het Q-learning algoritme gebruikt, wij hebben het PPO-model gebruikt.
+- [Artikel 2](https://www.sciencedirect.com/science/article/abs/pii/S0370157312000828)  
+- Lü, L., Medo, M., Yeung, C. H., Zhang, Y. C., Zhang, Z. K., & Zhou, T. (2012). Recommender systems. Physics reports, 519(1), 1-49. (APA gebprobeerd)  
+- In dit artikel worden de meest recente ontwikkelingen van recommender systems besproken en de uitdagingen hiervan. Wat wij met het foodboost wilden doen is in het klein een recommender systeem opbouwen. We hadden uit dit artikel het een en ander aan informatie kunnen gebruiken.
+- [Artikel 3](https://iopscience.iop.org/article/10.1088/1742-6596/1873/1/012050/meta)
+- Jiang, T., Zeng, B., Wang, Y., & Yan, W. (2021, April). A New Heuristic Reinforcement Learning for Container Relocation Problem. In Journal of Physics: Conference Series (Vol. 1873, No. 1, p. 012050). IOP Publishing.
+- In dit onderzoek leggen de auteurs de focus op het zo optimaal mogelijk opstapelen van containers op basis van prioriteit van de container. Het doel is om het aantal relocaties te minimaliseren. Dit is bij ons ook van toepassing, wij willen ook aan de hand van een reinforcement learning model containers zo optimaal mogelijk opstapelen zodat er zo min mogelijk relocaties nodig zijn.
+
+
+## Data preprocessing
+
+
+## Communication
+Dit stukje wordt beoordeeld op basis van de presentaties en het aandeel in het paper. Ik denk dat communicatie een van mijn sterkere punten is. Daarom wil ik ook graag even vertellen waarom ik denk dat ik dat tijdens deze minor heb laten zien door middel van andere voorbeelden dan het paper en de presentaties.   
+
+### Presentaties
+Hier kan ik heel kort over zijn. Ik heb 2 externe presentaties gegeven en daarnaast geholpen bij meerdere interne presentaties. Dit was de [eerste]() externe presentatie en dit was de [tweede]() externe presentatie. Daarnaast is dit een voorbeeld van een [interne]() presentatie die ik heb gegeven. Wij wilde als groepje iedereen de gelegenheid geven om een externe presentatie te doen. De presentaties deden we eigenlijk altijd met 2 personen. Ik vond deze presentaties een fijn onderdeel van deze minor. Hierdoor had ik een moment om naartoe te werken, dat vind ik zelf altijd erg prettig. Het geven van een presentatie vind ik zelf soms wel lastig omdat het dan spannend is, maar door het vaker te doen ga je er wel beter in worden. De presentaties waren ook een moment van feedback dat erg prettig is. Ik heb tijdens de presentaties denk ik wel laten zien dat ik goed kan communiceren
+
+### Paper
+Het schrijven van het paper is na de kerstvakantie het doel geweest van ons groepje. We zijn druk bezig geweest met zijn allen om een goed verzorgd paper neer te zetten. Ik heb samen met Hidde de onderzoeksopzet van het paper geschreven. Daarnaast heb ik ook de conclusie en een deel van de discussie geschreven. In de laatste dagen voor de deadline hebben wij met elkaar gezeten om met iedereen samen het paper compleet te maken. Dit hield in dat we allemaal het paper geconcentreerd door zouden lezen en daarbij opmerkingen zouden maken. Die opmerkingen hebben we met elkaar behandeld en uiteindelijk is, nadat iedereen het goed had gekeurd, het paper ingeleverd. 
+
+### Overige communicatie
+Wat vaker voorgekomen is bij projecten waaraan ik heb gewerkt is dat ik onbedoeld veel de leiding neem. Ik voel mijzelf verantwoordelijk voor wat de groep preseteert. Ik denk dat dit tijdens deze minor heel goed terug te zien was door de gesprekjes die wij met de docenten hebben gehad en de communicatie onderling in ons groepje. Ik nam elke keer het initatief en wilde iedereen op sleeptouw nemen. Ik ging het gesprek met docenten aan en wilde aan hen laten zien wat wij hebben gedaan. Op deze manier vind ik ook dat ik kan laten zien dat ik op het gebied van communicatie goed scoor.
+
 
 
 

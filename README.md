@@ -107,4 +107,8 @@ Wat vaker voorgekomen is bij projecten waaraan ik heb gewerkt is dat ik onbedoel
 
 
 
+## Afsluitend woord
+Ik wil hier mijn groepje, de andere studenten, de docenten en iedereen die betrokken is/was bij deze minor bedanken. Ik heb het idee dat ik ontzettend veel dingen heb geleerd die ik bij mijn aankomende stage toe kan gaan passen. Dit was ook de reden waarom ik mij voor deze minor heb ingeschreven, om voldoende kennis op te doen om in dit vakgebied een passende stage te vinden. Ik heb een leuke tijd gehad tijdens deze minor en ik ben heel blij dat ik deze minor heb gevolgd! Bedankt voor het lezen en een fijne dag!
+
+
 

@@ -79,7 +79,7 @@ Ik zal nog een aantal gevonden artikelen hier delen waarvan ik denk dat die van 
 - Lü, L., Medo, M., Yeung, C. H., Zhang, Y. C., Zhang, Z. K., & Zhou, T. (2012). Recommender systems. Physics reports, 519(1), 1-49. (APA gebprobeerd)  
 - In dit artikel worden de meest recente ontwikkelingen van recommender systems besproken en de uitdagingen hiervan. Wat wij met het foodboost wilden doen is in het klein een recommender systeem opbouwen. We hadden uit dit artikel het een en ander aan informatie kunnen gebruiken.
 - [Artikel 3](https://iopscience.iop.org/article/10.1088/1742-6596/1873/1/012050/meta)
-- Jiang, T., Zeng, B., Wang, Y., & Yan, W. (2021, April). A New Heuristic Reinforcement Learning for Container Relocation Problem. In Journal of Physics: Conference Series (Vol. 1873, No. 1, p. 012050). IOP Publishing.
+- Jiang, T., Zeng, B., Wang, Y., & Yan, W. (2021, April). A New Heuristic Reinforcement Learning for Container Relocation Problem. In Journal of Physics: Conference Series (Vol. 1873, No. 1, p. 012050). IOP Publishing. (APA geprobeerd)
 - In dit onderzoek leggen de auteurs de focus op het zo optimaal mogelijk opstapelen van containers op basis van prioriteit van de container. Het doel is om het aantal relocaties te minimaliseren. Dit is bij ons ook van toepassing, wij willen ook aan de hand van een reinforcement learning model containers zo optimaal mogelijk opstapelen zodat er zo min mogelijk relocaties nodig zijn.
 
 
